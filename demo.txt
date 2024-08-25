@@ -1,1 +1,1 @@
-1.Change path :- git clone in instance and c 
+1.Change path :- git clone in instance and copy and  
