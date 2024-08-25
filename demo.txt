@@ -1,4 +1,4 @@
 1.Change path :- git clone in instance and copy and paste 
 2.Ami id Change
 3.Key pair Change
-
+4.Change re
