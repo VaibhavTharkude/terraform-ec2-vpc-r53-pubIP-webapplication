@@ -1,1 +1,1 @@
-1.Change path  
+1.Change path :- git clone in instance  
