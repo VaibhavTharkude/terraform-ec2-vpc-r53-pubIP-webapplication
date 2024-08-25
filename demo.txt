@@ -2,4 +2,4 @@
 2.Ami id Change
 3.Key pair Change
 4.Change region 
-5 attach imi 
+5 attach iam pol
